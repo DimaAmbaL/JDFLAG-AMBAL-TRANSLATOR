@@ -19,7 +19,7 @@ SАМЫЙ АХУЕNNЫЙ ТRАNSLЯТОR V SТИLЕ JDFLAG, RАБОТАЕТ ЧЕ
 1. Sklоnиrуйtе rепоzиtоrий:c
 
 ```bash
-git clone https://github.com/ТВОЙ_АККАУНТ/ambal-translator.git
+git clone https://github.com/DimaAmbaL/ambal-translator.git
 
 2. Уstаnоvиtе zаvиsиmоstи:
 
