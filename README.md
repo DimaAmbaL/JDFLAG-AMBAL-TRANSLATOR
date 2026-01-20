@@ -1,3 +1,5 @@
+<img width="362" height="212" alt="изображение" src="https://github.com/user-attachments/assets/9d4ffb1b-7e16-4793-974c-3564c4d64bc3" />
+
 # JDFLAG-AMBAL-TRANSLATOR
 SАМЫЙ АХУЕNNЫЙ ТRАNSLЯТОR V SТИLЕ JDFLAG, RАБОТАЕТ ЧЕRЕZ БУFЕR ОБМЕNА
 # AMBAL TRANSLATOR v1.0
@@ -26,4 +28,5 @@ git clone https://github.com/DimaAmbaL/ambal-translator.git
 pip install -r requirements.txt
 
 3. Zапуstиtе 
-python main.py
+python main.py![Uploading ambal_translator_xXdA0CgMab.png…]()
+
