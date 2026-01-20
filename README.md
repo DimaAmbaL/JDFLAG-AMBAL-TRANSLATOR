@@ -28,6 +28,6 @@ git clone https://github.com/DimaAmbaL/ambal-translator.git
 pip install -r requirements.txt
 
 3. Zапуstиtе 
-python main.py![Uploading ambal_translator_xXdA0CgMab.png…]()
+python ambal-translator.py (МИША DЖЕКSОN NА ИКОNКЕ)
 
 ИLИ ЖЕ SКАЧАЙТЕ ИZ RЕLИZА EXE FАЙL
