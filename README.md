@@ -30,3 +30,4 @@ pip install -r requirements.txt
 3. Zапуstиtе 
 python main.py![Uploading ambal_translator_xXdA0CgMab.png…]()
 
+ИLИ ЖЕ SКАЧАЙТЕ ИZ RЕLИZА EXE FАЙL
