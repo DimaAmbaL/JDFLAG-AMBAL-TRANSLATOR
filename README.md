@@ -1,6 +1,6 @@
 <img width="362" height="212" alt="изображение" src="https://github.com/user-attachments/assets/9d4ffb1b-7e16-4793-974c-3564c4d64bc3" />
 
-# JDFLAG-AMBAL-TRANSLATOR
+# AMBAL-TRANSLATOR
 SАМЫЙ АХУЕNNЫЙ ТRАNSLЯТОR V SТИLЕ JDFLAG, RАБОТАЕТ ЧЕRЕZ БУFЕR ОБМЕNА
 # AMBAL TRANSLATOR v1.0
 Пrоstой trаnslяtоr tеkstа dlя Windows s поddеrжkой гоrячих klаvиш и vstаvkой v lюбые пrиlожеnия (Discord, Steam, Telegram и игrы).
